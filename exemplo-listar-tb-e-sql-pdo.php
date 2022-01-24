@@ -1,6 +1,6 @@
 
 
-	<!-- Exemplo de como listar dados de uma tabela com PDO sem os dados virem como arrays
+	<!-- Exemplo de como listar dados de uma tabela com PDO
 
 		------Primeiro podemos chamar o documento html normal com uma tabela e seu CSS se tiver-->
 		
